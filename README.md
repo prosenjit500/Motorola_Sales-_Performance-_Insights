@@ -19,7 +19,7 @@
 - [📂 How to Use This Dashboard](#-how-to-use-this-dashboard)
 - [🎯 Potential Business Actions Based on Insights](#-potential-business-actions-based-on-insights)
 - [📥 Download the Dashboard](#-Download-the-Dashboard)
-- [🔗 Connect with Me](#-connect-with-me)
+- [🔗 Contact & Contributions](#-Contact-&-Contributions)
 
 ---
 
@@ -128,8 +128,8 @@ It empowers decision-makers with actionable insights to improve marketing strate
 
 ---
 
-## 🔗 Connect with Me
-
-**Prosenjit Majumder**  
-📎 [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder)  
-✉️ Reach out for collaborations, feedback, or Power BI projects!
+## 📬 Contact & Contributions
+If you find this project useful or have suggestions for improvements, feel free to contribute or reach out!
+⭐ Star this repository if you like the project!
+🔗 LinkedIn: **Prosenjit Majumder** [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
+📧 Email: prosenjitmajumder500@gmail.com
