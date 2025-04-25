@@ -19,7 +19,7 @@
 - [📂 How to Use This Dashboard](#-how-to-use-this-dashboard)
 - [🎯 Potential Business Actions Based on Insights](#-potential-business-actions-based-on-insights)
 - [📥 Download the Dashboard](#-Download-the-Dashboard)
-- [📬 Contact & Contributions](#-Contact-&-Contributions)
+- [📬 Contact & Contributions](#contact--contributions)
 
 ---
 
