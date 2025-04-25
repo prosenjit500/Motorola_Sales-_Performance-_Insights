@@ -130,6 +130,9 @@ It empowers decision-makers with actionable insights to improve marketing strate
 
 ## 📬 Contact & Contributions
 If you find this project useful or have suggestions for improvements, feel free to contribute or reach out!
+
 ⭐ Star this repository if you like the project!
+
 🔗 LinkedIn: **Prosenjit Majumder** [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
+
 📧 Email: prosenjitmajumder500@gmail.com
