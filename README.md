@@ -124,7 +124,8 @@ It empowers decision-makers with actionable insights to improve marketing strate
 
 ## 📥 Download the Dashboard
 
-🔗 [Download Motorola_Sales_Insights.pbix](./Motorola_Sales_Peformance_Insights_Dashboard.pbix)
+🔗 [Download Motorola_Sales_Insights.pbix](Motorola%20Sales%20Performance%20Insights%20Dashboard.pbix)
+)
 
 ---
 
