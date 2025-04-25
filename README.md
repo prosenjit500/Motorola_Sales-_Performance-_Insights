@@ -9,7 +9,7 @@
 ## 📚 Table of Contents
 - [🚀 Project Overview](#-project-overview)
 - [📈 Key Business Metrics](#-key-business-metrics)
-- [🛠️ Dashboard Components and Deep Insights](#-Dashboard-Components_and_Deep_Insights)
+- [🛠️ Dashboard Components and Deep Insights](#dashboard-components-and-deep-insights)
   - [📅 Total Sales by Month](#-total-sales-by-month-line-chart)
   - [🗺️ City-wise Unit Sold](#-city-wise-unit-sold-map-visual)
   - [💳 Total Sales by Payment Method](#-total-sales-by-payment-method-bar-chart)
