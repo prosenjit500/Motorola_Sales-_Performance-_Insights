@@ -6,23 +6,6 @@
 
 ---
 
-## 📚 Table of Contents
-- [🚀 Project Overview](#-project-overview)
-- [📈 Key Business Metrics](#-key-business-metrics)
-- [🛠️ Dashboard Components and Deep Insights](#-dashboard-components-and-deep-insights)  
-  - [📅 Total Sales by Month (Line Chart)](#-total-sales-by-month-line-chart)  
-  - [🗺️ City-wise Unit Sold (Map Visual)](#-city-wise-unit-sold-map-visual)  
-  - [💳 Total Sales by Payment Method (Bar Chart)](#-total-sales-by-payment-method-bar-chart)  
-  - [⭐ Ratings Overview (Horizontal Bar Chart)](#-ratings-overview-horizontal-bar-chart)  
-  - [📱 Total Sales by Mobile Model (Bar Chart)](#-total-sales-by-mobile-model-bar-chart)  
-- [🔥 Additional Insights](#-additional-insights)  
-- [📂 How to Use This Dashboard](#-how-to-use-this-dashboard)  
-- [🎯 Potential Business Actions Based on Insights](#-potential-business-actions-based-on-insights)  
-- [📥 Download the Dashboard](#-download-the-dashboard)  
-- [📬 Contact & Contributions](#-contact--contributions)
-
----
-
 ## 🚀 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of **Motorola's sales performance** for the year, focusing on **monthly trends**, **payment methods**, **product popularity**, **geographic distribution**, and **customer satisfaction**.  
@@ -131,8 +114,6 @@ It empowers decision-makers with actionable insights to improve marketing strate
 
 ## 📬 Contact & Contributions
 If you find this project useful or have suggestions for improvements, feel free to contribute or reach out!
-
-⭐ Star this repository if you like the project!
 
 🔗 LinkedIn: **Prosenjit Majumder** [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
 
