@@ -108,7 +108,7 @@ It empowers decision-makers with actionable insights to improve marketing strate
 ## 📥 Download the Dashboard
 
 🔗 [Download Motorola_Sales_Insights.pbix](Motorola%20Sales%20Performance%20Insights%20Dashboard.pbix)
-)
+
 
 ---
 
@@ -118,3 +118,7 @@ If you find this project useful or have suggestions for improvements, feel free 
 🔗 LinkedIn: **Prosenjit Majumder** [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
 
 📧 Email: prosenjitmajumder500@gmail.com
+
+---
+Note: This project is for educational and portfolio purposes only and is not affiliated with Motorola.
+
